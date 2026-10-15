@@ -1,3 +1,5 @@
 package com.example.myapplication
 
-@C
+import androidx.compose.runtime.Composable
+
+@Composable
